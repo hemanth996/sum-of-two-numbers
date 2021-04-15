@@ -5,3 +5,4 @@ echo "Enter the second number"
 read y
 ((sum=x+y))
 echo "the result of addition=$sum"
+echo " i created a shell script "
